@@ -32,7 +32,7 @@
     }
   },
   "scripts": {
-    "build": "esm2umd Long index.js > umd/index.js",
+    "build": "esm2umd Long index.js > umd/index.cjs",
     "test": "node tests"
   },
   "files": [
